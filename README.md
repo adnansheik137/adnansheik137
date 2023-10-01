@@ -5,14 +5,15 @@
   - Deep Learning
   - LLM Prompting
   - Hardware Engineering
-  - Circuit Analysis
   - Python and C++
-  - Data Structures
+  - Data Structuress
 
 - 🌱 I’m currently learning:
   - Python Automation
   - TinyML (Tiny Machine Learning)
   - LAMP Stack (Linux, Apache, MySQL, PHP)
+  - Deep Learning Applications
+  - Circuit Analysis
 
 - 💞️ I’m looking to collaborate on:
   - TinyML Projects
