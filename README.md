@@ -21,7 +21,7 @@
   - Website Development
   - GPT Prompt Engineering
 
-- 📫 How to reach me: [Your Preferred Contact Information]
+- 📫 How to reach me: adnansheik1@gmail.com | (916)467-6606
 
 
 <!---
