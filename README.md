@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning:
   - Python Automation
   - TinyML (Tiny Machine Learning)
-  - LAMP Stack (Linux, Apache, MySQL, PHP)
+  - Full Stack Web Development (Node.js, React, Python)
   - Deep Learning Applications
   - Circuit Analysis
 
